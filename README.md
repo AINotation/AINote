@@ -1,8 +1,9 @@
-# MicroMuisc
+# AINote
 
-End-to-end automatic text-to-audio alignment for music. Precise Lyric Synchronization Playback.
+Generate lyrics, chords, beat for music.
 
-<a href="https://lamucal.ai" alt="Lamucal.ai"><img src='./image/ai1.gif'  style="width: 700px;" > </a>
+<a href="https://lamucal.ai" alt="Lamucal.ai"><img src='./image/ai1.gif'  style="width: 600px;" > </a>
+<a href="https://lamucal.ai" alt="Lamucal.ai"><img src='./image/ai2.gif'  style="width: 700px;" > </a>
 
 > The online experience, [See the site here](https://lamucal.ai)  
 
